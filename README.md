@@ -3,7 +3,7 @@
 This is an elevator simulator that is co authored with Adam Cassidy 
 
 This simulator was created for our final project in our data strucutres class. The purpose of this simulator was to build the most effiecnt 
-algorithim we could and stress test it given differnt distributions of people throughout a building. The program will execute 1000 runs of each 
+algorithim we could and stress test it given different distributions of people throughout a building. The program will execute 1000 runs of each 
 distribution and collect 5 different data sets 
 
   a. Total Time (How long on average did the elevator run for)
