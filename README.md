@@ -6,11 +6,11 @@ This simulator was created for our final project in our data strucutres class. T
 elevator algorithim, and stress test it given different distributions of people throughout a building. The program will execute 1000 runs of each 
 distribution and collect 5 different data sets 
 
-  a. Total Time (How long on average did the elevator run for)
-  b. Passengers Delivered (How many passengers were delived on each run 
-  c. Total Floors Traveled (On average how many floors would the elevator travel per run)
-  d. Total Floors Traveled with Passengers (On average how many floors did the elevator travel with people in it)
-  e. Ride Time Per Passenger(What was the average time a person was in an elevator for)
+  1. Total Time (How long on average did the elevator run for)
+  2. Passengers Delivered (How many passengers were delived on each run 
+  3. Total Floors Traveled (On average how many floors would the elevator travel per run)
+  4. Total Floors Traveled with Passengers (On average how many floors did the elevator travel with people in it)
+  5. Ride Time Per Passenger(What was the average time a person was in an elevator for)
   
 The alogorithm of the elevator works like this. The elevator will always start on floor 1 and be emtpy. It will then move up a floor and pick 
 up people as long as they dont exceed the total weight constraint of the elevator. It will then move the elevator up to the highest floor
