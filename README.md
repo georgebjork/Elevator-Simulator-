@@ -16,3 +16,12 @@ The alogorithm of the elevator works like this. The elevator will always start o
 up people as long as they dont exceed the total weight constraint of the elevator. It will then move the elevator up to the highest floor
 out of all the people in the elevator. It will move up one floor at a time. If there is a person it can drop off or pick up along the way it 
 will do so. It will continue this until all people are removed from the elevator 
+
+**************************IMPORTANT********************************
+If you would like to see and example of one run being displayed,
+      Comment Out:
+          main.cpp: lines 282-285
+     Uncomment:
+         main.cpp: whichever of lines 289-292 you would like to see
+         
+To mix things up, try changing the numFloors in line 30, or the numPersons in line 31, adjust the RUNS_PER in line 280 accordingly 
