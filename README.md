@@ -17,7 +17,7 @@ up people as long as they dont exceed the total weight constraint of the elevato
 out of all the people in the elevator. It will move up one floor at a time. If there is a person it can drop off or pick up along the way it 
 will do so. It will continue this until all people are removed from the elevator 
 
-**************************IMPORTANT********************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*IMPORTANT\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* <br />
 If you would like to see and example of one run being displayed,
       Comment Out:
           main.cpp: lines 282-285
