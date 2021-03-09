@@ -2,7 +2,7 @@
 
 This is an elevator simulator that is co authored with Adam Cassidy 
 
-This simulator was created for our final project in our data strucutres class. The purpose of this simulator was to build the most effiecnt 
+This simulator was created for our final project in our data strucutres class. The purpose of this simulator was to build the most efficent  
 elevator algorithim, and stress test it given different distributions of people throughout a building. The program will execute 1000 runs of each 
 distribution and collect 5 different data sets 
 
